@@ -1,4 +1,4 @@
-# Proyek untuk UAS
+# Proyek untuk UAS (Uncomplete 40%)
 
 file zip
 
