@@ -7,11 +7,11 @@ file zip
 
 Video
 
-
-
-
 https://github.com/user-attachments/assets/ab806760-8ebf-4a8f-accc-51664a7d451b
 
-# Selamat datang di Proyek alzendi!
+# PROYEK UAS System Kampus 100%
 
-Lihat detail proyek di sini: [Proyek.md](./Proyek.md)
+[UAS-PROYEK.zip](https://github.com/user-attachments/files/21060258/UAS-PROYEK.zip)
+
+ 
+ Video Proyek
